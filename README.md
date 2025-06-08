@@ -15,10 +15,19 @@
 ### Javascript
 
 1. [변수선언](./docs/JS/JS_변수선언.md)
-2. [데이터타입](./docs/JS/JS_데이터타입.md)
-3. [연산자](./docs/JS/JS_연산자.md)
-4. [조건문]
-5. [반복문]
-6. [함수]
+2. [연산자](./docs/JS/JS_연산자.md)
+3. [데이터타입](./docs/JS/JS_데이터타입.md)
+4. [타입변환](./docs/JS/JS_타입변환.md)
+5. [배열과객체](./docs/JS/JS_배열객체.md)
+6. [배열](./docs/JS/JS_배열.md)
+7. [객체](./docs/JS/JS_객체.md)
+8. [조건문](./docs/JS/JS_조건문.md)
+9. [반복문]
+10. [함수]
+11. [예외처리]
+12. [비동기처리]
+13. [`Fetch API`]
+14. [DOM]
+15. [Localstorage,sessionStorage]
 
 ---
