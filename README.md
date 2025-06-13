@@ -22,10 +22,10 @@
 6. [배열](./docs/JS/JS_배열.md)
 7. [객체](./docs/JS/JS_객체.md)
 8. [조건문](./docs/JS/JS_조건문.md)
-9. [반복문]
-10. [함수]
-11. [예외처리]
-12. [비동기처리]
+9. [반복문](./docs/JS/JS_반복문.md)
+10. [함수](./docs/JS/JS_함수.md)
+11. [예외처리](./docs/JS/JS_예외처리.md)
+12. [비동기프로그래밍](./docs/JS/JS_비동기프로그래밍.md)
 13. [`Fetch API`]
 14. [DOM]
 15. [Localstorage,sessionStorage]
